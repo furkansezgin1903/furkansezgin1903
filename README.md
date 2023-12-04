@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @furkansezgin1903
-- 👀 I’m interested in ... Bilgisayar,Arduino,Python,siber güvenlik 
-- 🌱 I’m currently learning ..Pyhton ve siber güvenlik 
+- 👀 I’m interested in ... Computer,Arduino,Python,Cyber Security
+- 🌱 I’m currently learning ..Pyhton and Cyber Security 
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .. sezginfurkan612@gmail.com
